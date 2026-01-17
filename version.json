@@ -1,1 +1,8 @@
-
+{
+  "version": "1.0.1",
+  "message": "A new version is available. Please update the app.",
+  "download_url": "",
+  "auto_redirect": false,
+  "redirect_url": "https://ffbot-key.vercel.app/",
+  "redirect_incorrect_key": "https://ffbot-key.vercel.app/"
+}
